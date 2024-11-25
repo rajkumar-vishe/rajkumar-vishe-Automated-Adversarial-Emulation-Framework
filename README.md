@@ -20,7 +20,7 @@ Before running the project, ensure you have the following installed:
 ## Installation  
 Clone this repository to your local machine:  
 ```
-git clone https://github.com/rajkumar-vishe/rajkumar-vishe-Automated-Adversarial-Emulation-Framework.git  
+git clone https://github.com/rajkumar-vishe/rajkumar-vishe-Automated-Adversarial-Emulation-Framework.git
 cd Automated-Adversarial-Emulation-Framework  
 ```
  Install the required dependencies
